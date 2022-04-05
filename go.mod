@@ -1,4 +1,4 @@
-module github.com/Telmate/proxmox-api-go
+module github.com/maximiliend/proxmox-api-go
 
 go 1.16
 
